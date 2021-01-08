@@ -1,0 +1,10 @@
+318::Shawshank Redemption, The (1994)::Drama, ?
+527::Schindler's List (1993)::Drama|War, ?
+2959::Fight Club (1999)::Drama, ?
+393::Street Fighter (1994)::Action, ?
+3285::Beach, The (2000)::Adventure|Drama, ?
+2571::Matrix, The (1999)::Action|Sci-Fi|Thriller, ?
+1270::Back to the Future (1985)::Comedy|Sci-Fi, ?
+3578::Gladiator (2000)::Action|Drama, ?
+1200::Aliens (1986)::Action|Sci-Fi|Thriller|War, ?
+2858::American Beauty (1999)::Comedy|Drama, ?
